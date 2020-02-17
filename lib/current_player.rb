@@ -11,8 +11,8 @@ end
 def current_player(board)
   if 4 % 2 
     return "X"
-  else turns
-
   end
 end
+return turns
+end 
   
