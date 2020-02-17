@@ -11,8 +11,7 @@ end
 def current_player(board)
   if 4 % 2 
     return "X"
-  else 21.odd? == "O"
-    return "O"
+  else turns
 
   end
 end
