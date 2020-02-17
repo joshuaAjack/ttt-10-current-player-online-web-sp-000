@@ -15,4 +15,5 @@ def current_player(board)
 end
 return turns
 end 
+end
   
